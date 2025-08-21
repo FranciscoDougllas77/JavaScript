@@ -1,2 +1,2 @@
-# JavaScript
-Estudos da Linguagem de Programação JavaScript
+# JavaScript_Estudos
+JavaScript_Estudos
